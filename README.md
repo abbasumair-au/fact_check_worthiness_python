@@ -1,2 +1,1 @@
-# Term-Project-Data-Analytics
-Term Project Data Analytics 2019
+A GUI(using tkinter) based python tool to check fact check worthiness of news.
